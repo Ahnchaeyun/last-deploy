@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: back-con
-        image: yunchae02/backimg:7
+        image: yunchae02/backimg:8
 ---
 apiVersion: v1
 kind: Service
